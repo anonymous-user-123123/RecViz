@@ -18,7 +18,7 @@ The tool is based on the research of <...> , who provided the recommendations an
 ... To be added 
 
 ## Setup Guide for Demo:
-You can also watch this video: https://vimeo.com/manage/videos/841932536/privacy
+You can also watch this video: [VIDEO](https://vimeo.com/841932536)
 
 Following is a guide on how to setup this Demo, you will need docker and docker-compose installed on your machine. If on mac, i recommend brew: 
 - https://brew.sh/
